@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b5bab0fff5a79c40b096cf3a8d0b78c, type: 3}
+  m_Name: COPAS_ K
+  m_EditorClassIdentifier: Assembly-CSharp::CardData
+  cardName: Rei da Vida Eterna
+  manaCost: 8
+  power: 8
+  health: 5
+  suit: 0
+  cardArtwork: {fileID: 7852732269453417002, guid: 7dc245a2fb2b76049a08441c9b0e16c9, type: 3}
+  effectDescription: "Enquanto permanecer em campo, o her\xF3i recupera 2 pontos de vida de todos os aliados ao final de cada turno."

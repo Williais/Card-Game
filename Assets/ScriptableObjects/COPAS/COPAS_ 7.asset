@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b5bab0fff5a79c40b096cf3a8d0b78c, type: 3}
+  m_Name: COPAS_ 7
+  m_EditorClassIdentifier: Assembly-CSharp::CardData
+  cardName: "Cora\xE7\xE3o Flamejante"
+  manaCost: 3
+  power: 0
+  health: 0
+  suit: 0
+  cardArtwork: {fileID: -8369307757402793374, guid: 45794556130bc624e8119421ab196436, type: 3}
+  effectDescription: "Restaura 2 pontos de vida do her\xF3i e concede 2 pontos de vida a todas as criaturas aliadas."

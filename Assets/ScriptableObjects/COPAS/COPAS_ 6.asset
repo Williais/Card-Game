@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b5bab0fff5a79c40b096cf3a8d0b78c, type: 3}
+  m_Name: COPAS_ 6
+  m_EditorClassIdentifier: Assembly-CSharp::CardData
+  cardName: "La\xE7os da Vida"
+  manaCost: 5
+  power: 0
+  health: 0
+  suit: 0
+  cardArtwork: {fileID: 7028159166721939176, guid: 9f0f7f1b2a747374d8ddae4f63f37fbd, type: 3}
+  effectDescription: "Restaura 4 pontos de vida do her\xF3i. Se o her\xF3i estiver com menos da metade da vida, restaura mais 2 pontos."

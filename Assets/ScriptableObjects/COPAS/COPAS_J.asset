@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b5bab0fff5a79c40b096cf3a8d0b78c, type: 3}
+  m_Name: COPAS_J
+  m_EditorClassIdentifier: Assembly-CSharp::CardData
+  cardName: "Cavaleiro da Esperan\xE7a"
+  manaCost: 8
+  power: 4
+  health: 6
+  suit: 0
+  cardArtwork: {fileID: 6952578581629641934, guid: a77a21d94e139db41966aa3eb69c35f7, type: 3}
+  effectDescription: "Ao entrar em campo, restaura 3 pontos de vida do her\xF3i. Sempre que atacar, recupera 1 ponto de vida."
